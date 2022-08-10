@@ -7,7 +7,7 @@ En este desafío se definieron las tablas de la base de datos en MySQL. En el c�
 * Nombre de los campos.
 * Tipos de datos de cada campo.
 
-<a href="https://github.com/GomezFrannco/desafio-clase-8/blob/master/Parking-System.sql">Código SQL</a>
+<a href="https://github.com/GomezFrannco/desafio-clase-8/blob/master/desafio-clase-8/Parking-System.sql">Código SQL</a>
 
 # Diagrama ER (generado en DBeaver)
 
