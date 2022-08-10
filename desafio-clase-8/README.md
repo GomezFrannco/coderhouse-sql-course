@@ -11,4 +11,4 @@ En este desaf√≠o se definieron las tablas de la base de datos en MySQL. En el c√
 
 # Diagrama ER (generado en DBeaver)
 
-![DER](https://github.com/GomezFrannco/desafio-clase-8/blob/master/img/PARKING_SYSTEM.png)
+![DER](https://raw.githubusercontent.com/GomezFrannco/desafio-clase-8/master/desafio-clase-8/img/PARKING_SYSTEM.png)
