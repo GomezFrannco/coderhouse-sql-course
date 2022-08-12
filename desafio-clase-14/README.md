@@ -26,7 +26,7 @@ SELECT * FROM info_clientes_mensuales;
 ![view](https://github.com/GomezFrannco/coderhouse-sql-course/blob/master/desafio-clase-14/img/view_3.png)
 
 ```SQL
-SELECT * FROM info_mes_pago imp;
+SELECT * FROM info_mes_pago;
 ```
 ![view](https://github.com/GomezFrannco/coderhouse-sql-course/blob/master/desafio-clase-14/img/view_4.png)
 
