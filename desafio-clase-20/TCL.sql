@@ -9,7 +9,7 @@ ADD CONSTRAINT FK_MONTHLY_CLIENTS
     FOREIGN KEY (client_id) 
     REFERENCES CLIENT (client_id) 
     ON DELETE CASCADE;  
--- Ahora puedo proceder con el código TCL sin generar errores al borrar registros.
+-- Ahora puedo proceder con el código DML y TCL sin generar errores al borrar registros. Esto porque la tabla MONTHLY_CLIENTS depende de la tabla CLIENT, que es la que elegí.
 
 START TRANSACTION; -- Al usar START TRANSACTION estamos,de manera implícita, desactivando el autocommit. Pero también podría desactivarlo de manera explícita SET autocommit=0;
 /* DML sentence */
