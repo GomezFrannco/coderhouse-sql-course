@@ -1,7 +1,7 @@
 # Proyecto Final SQL CODERHOUSE
 
 En este repositorio se encuentran todos los archivos solicitados para la entrega del desafío final del curso SQL de coderhouse.<a href="https://github.com/GomezFrannco/coderhouse-sql-course/blob/master/proyecto-final/assets/pdf/ProyectoFinal-GomezFranco.pdf"> Click aquí</a> para ver el pdf informativo.
-
+Todos los archivos **.sql** se encuentran en la carpeta<a href="https://github.com/GomezFrannco/coderhouse-sql-course/blob/master/proyecto-final/sql"> sql</a>
 
 # Pasos A Seguir:
 
